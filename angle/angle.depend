@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1670002140 source:f:\communication engineering\embedded system\nti\c amrali\angle\main.c
+	<stdio.h>
+	<stdlib.h>
+
